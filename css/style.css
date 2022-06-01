@@ -1,0 +1,32 @@
+body
+{
+  background-color: #82DBD8;
+}
+
+h1
+{
+  color:black;
+}
+
+h3
+{
+  color: #2F8F9D;
+}
+
+hr
+{border-style: none;
+  border-top-style : dotted;
+
+  border-color: green;
+  border-width: 5px;
+  width: 10%;
+}
+img:hover
+{
+  background-color: black;
+}
+
+.yassh
+{
+  background-color: red;
+}
